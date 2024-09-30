@@ -1,0 +1,53 @@
+[
+    {
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "john.doe@qq.com",
+        "dateOfBirth": "2004-06-01",
+        "address": {
+            "street": "123 Main St",
+            "city": "New York",
+            "state": "NY",
+            "zipCode": "10001"
+        },
+        "preferences": {
+            "theme": "dark",
+            "language": "en",
+            "notifications": true
+        }
+    },
+    {
+        "firstName": "Tom",
+        "lastName": "Trump",
+        "email": "Tom.Trump@outlook.com",
+        "dateOfBirth": "1950-11-01",
+        "address": {
+            "street": "Pennsylvania Avenue",
+            "city": "District of Columbia",
+            "state": "District of Columbia",
+            "zipCode": "94107"
+        },
+        "preferences": {
+            "theme": "dark",
+            "language": "en",
+            "notifications": true
+        }
+    },
+    {
+        "firstName": "Bob",
+        "lastName": "Smith",
+        "email": "Bob.smith@163.com",
+        "dateOfBirth": "1985-05-15",
+        "address": {
+            "street": "456 Oak St",
+            "city": "San Francisco",
+            "state": "CA",
+            "zipCode": "94107"
+        },
+        "preferences": {
+            "theme": "light",
+            "language": "fr",
+            "notifications": false
+        }
+    }
+]
